@@ -65,6 +65,7 @@
     height: 100%;
     padding-top: 1rem;
     text-align: center;
+    transition: all .3s ease-out;
 }
 
 .calculator__button:hover{
